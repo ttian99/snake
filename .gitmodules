@@ -1,3 +1,6 @@
 [submodule "src/jtx-cocos-ex"]
 	path = src/jtx-cocos-ex
 	url = https://github.com/ttian99/jtx-cocos-ex.git
+[submodule "ccTools"]
+	path = ccTools
+	url = https://github.com/ttian99/ccTools.git
